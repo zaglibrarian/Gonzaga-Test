@@ -19,7 +19,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The trial repository for Gonzaga University's dorms [Digital Collections](https://www.lib.uidaho.edu/digital). 
+It is a sample project to show the locations of past and present dorms on Gonzaga University's campus using images from our [Digital Collections](https://digital.gonzaga.edu/). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
